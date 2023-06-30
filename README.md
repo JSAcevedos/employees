@@ -1,4 +1,4 @@
-# employees
+# Employees
 
 A prestigious company is looking for developers for a new project proposed during the latest board meeting. N individuals have applied for the vacancy, of which the company will only consider those who meet the minimum requirements. These requirements are represented by distinct positive integers. The company has a list of M competencies that their developers must meet. They may also consider developers with additional skills as long as they meet the minimum required competencies. How many applicants meet the company's conditions?
 
